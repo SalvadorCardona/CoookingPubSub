@@ -4,6 +4,7 @@ import { createChannelPubSub, createPubSub } from '../src'
 describe('createPubSub', () => {
   it('should create a unique instance with an id', () => {
     const pubsub = createPubSub()
+
     expect(pubsub.id).toBeDefined()
     expect(typeof pubsub.id).toBe('string')
   })
