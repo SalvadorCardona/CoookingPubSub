@@ -29,7 +29,8 @@ A lightweight and type-safe publish/subscribe library for JavaScript and TypeScr
 ## Installation
 
 ```shell
-npm i stupid-pub-sub
+npm i coooking-pubsub
+pnpm add coooking-pubsub
 ```
 
 ### 1. Simple PubSub

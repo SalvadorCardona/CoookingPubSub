@@ -1,4 +1,3 @@
-// eslint-disable-next-line eslint-comments/no-unlimited-disable
 /* eslint-disable */
 
 // @ts-nocheck
